@@ -1,6 +1,6 @@
 {
   "name": "ws-markdown-editor",
-  "version": "0.0.6",
+  "version": "0.0.1",
   "description": "wisite footer",
   "main": "./lib",
   "scripts": {
