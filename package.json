@@ -1,7 +1,7 @@
 {
   "name": "ws-markdown-editor",
   "version": "0.0.1",
-  "description": "wisite footer",
+  "description": "wisite markdown editor",
   "main": "./lib",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha --recursive -t 5000 --compilers js:babel-core/register",
